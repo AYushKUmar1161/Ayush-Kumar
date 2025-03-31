@@ -14,30 +14,7 @@
 - 🏗️ Building cool projects in **Web & Desktop Development**  
 - 📚 Learning **Chromium Development** for GSoC  
 
----
 
-### 📊 **GitHub Stats**  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyushKumar&show_icons=true&theme=radical" alt="GitHub Stats">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushKumar&theme=radical" alt="GitHub Streak">
-</p>
-
----
-
-### 🎯 **Top Languages**  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushKumar&layout=compact&theme=radical" alt="Top Languages">
-</p>
-
----
-
-### 🔥 **Contributions Snake**  
-<p align="center">
-  <img src="https://github.com/AyushKumar/AyushKumar/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</p>
-
----
 
 ### 💬 **Quote of the Day**  
 <p align="center">
